@@ -1,2 +1,3 @@
 # codbex-methods-data
-Data for Methods module
+
+Data records for Methods module
